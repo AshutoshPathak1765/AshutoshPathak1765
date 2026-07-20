@@ -95,9 +95,7 @@ High-performance HTTP proxy supporting 400+ concurrent connections using POSIX T
 ## ⚙️ GitHub Analytics
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AshutoshPathak1765&show_icons=true&theme=github_dark"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshutoshPathak1765&layout=compact&theme=github_dark"/>
-</p>
+
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=AshutoshPathak1765&theme=github-dark-blue"/>
